@@ -80,6 +80,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0402-remove-k-digits/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -89,4 +90,16 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0402-remove-k-digits/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0402-remove-k-digits/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0402-remove-k-digits/) | Medium |
 <!---LeetCode Topics End-->

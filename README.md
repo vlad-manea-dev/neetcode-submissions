@@ -95,6 +95,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0093-restore-ip-addresses](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0402-remove-k-digits](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0402-remove-k-digits/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -128,4 +129,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1631-path-with-minimum-effort](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0093-restore-ip-addresses](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0093-restore-ip-addresses/) | Medium |
 <!---LeetCode Topics End-->

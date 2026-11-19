@@ -122,10 +122,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -149,6 +151,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0012-integer-to-roman](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0013-roman-to-integer/) | Easy |
 | [0525-contiguous-array](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0525-contiguous-array/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -176,4 +179,17 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 <!---LeetCode Topics End-->

@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0209-minimum-size-subarray-sum](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0525-contiguous-array/) | Medium |
 | [0740-delete-and-earn](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0740-delete-and-earn/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
@@ -119,6 +120,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -158,6 +160,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0525-contiguous-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -198,4 +201,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0740-delete-and-earn](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0740-delete-and-earn/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->

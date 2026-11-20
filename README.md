@@ -184,11 +184,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |

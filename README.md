@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0016-3sum-closest](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -94,6 +95,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0645-set-mismatch](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0645-set-mismatch/) | Easy |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
@@ -195,6 +197,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0016-3sum-closest/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |

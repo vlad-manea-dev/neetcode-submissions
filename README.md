@@ -78,6 +78,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0496-next-greater-element-i](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0525-contiguous-array/) | Medium |
 | [0740-delete-and-earn](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0740-delete-and-earn/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
@@ -113,10 +114,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0071-simplify-path/) | Medium |
 | [0402-remove-k-digits](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0402-remove-k-digits/) | Medium |
+| [0496-next-greater-element-i](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0402-remove-k-digits/) | Medium |
+| [0496-next-greater-element-i](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +156,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0013-roman-to-integer/) | Easy |
+| [0496-next-greater-element-i](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0525-contiguous-array/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0740-delete-and-earn](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0740-delete-and-earn/) | Medium |

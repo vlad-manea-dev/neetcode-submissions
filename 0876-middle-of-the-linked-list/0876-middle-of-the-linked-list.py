@@ -11,10 +11,8 @@ class Solution:
             cur = cur.next
             length += 1
 
-        if length % 2 == 0:
-            length = (length // 2) 
-        else:
-            length = length // 2
+
+        length = length // 2
         cur = head
         while length:
             cur = cur.next

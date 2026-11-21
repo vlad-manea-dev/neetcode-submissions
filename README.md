@@ -119,6 +119,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0093-restore-ip-addresses](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0402-remove-k-digits](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0402-remove-k-digits/) | Medium |
+| [0796-rotate-string](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0796-rotate-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1544-make-the-string-great/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -235,6 +236,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0796-rotate-string](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0796-rotate-string/) | Easy |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |

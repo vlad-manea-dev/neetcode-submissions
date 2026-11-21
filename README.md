@@ -85,6 +85,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0525-contiguous-array](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0525-contiguous-array/) | Medium |
 | [0645-set-mismatch](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0645-set-mismatch/) | Easy |
 | [0740-delete-and-earn](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0740-delete-and-earn/) | Medium |
+| [0888-fair-candy-swap](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0888-fair-candy-swap/) | Easy |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -101,6 +102,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0016-3sum-closest](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0645-set-mismatch](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0645-set-mismatch/) | Easy |
+| [0888-fair-candy-swap](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0888-fair-candy-swap/) | Easy |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -141,6 +143,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0888-fair-candy-swap](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0888-fair-candy-swap/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Depth-First Search
@@ -181,6 +184,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0645-set-mismatch](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0645-set-mismatch/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0740-delete-and-earn](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0740-delete-and-earn/) | Medium |
+| [0888-fair-candy-swap](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0888-fair-candy-swap/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |

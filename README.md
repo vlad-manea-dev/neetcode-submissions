@@ -80,6 +80,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0016-3sum-closest](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0525-contiguous-array/) | Medium |
@@ -182,6 +183,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0013-roman-to-integer/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0525-contiguous-array/) | Medium |
@@ -249,6 +251,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |

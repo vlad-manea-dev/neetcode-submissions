@@ -127,6 +127,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0402-remove-k-digits](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0402-remove-k-digits/) | Medium |
 | [0796-rotate-string](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0844-backspace-string-compare/) | Easy |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1544-make-the-string-great](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1544-make-the-string-great/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -188,6 +189,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0740-delete-and-earn](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0740-delete-and-earn/) | Medium |
 | [0888-fair-candy-swap](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0888-fair-candy-swap/) | Easy |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -247,6 +249,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |

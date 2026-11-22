@@ -90,6 +90,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0740-delete-and-earn](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0740-delete-and-earn/) | Medium |
 | [0888-fair-candy-swap](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0888-fair-candy-swap/) | Easy |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
+| [1528-shuffle-string](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1528-shuffle-string/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -132,6 +133,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0796-rotate-string](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
+| [1528-shuffle-string](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1528-shuffle-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1544-make-the-string-great/) | Easy |
 ## Stack
 | Problem Name | Difficulty |

@@ -143,6 +143,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0224-basic-calculator](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0224-basic-calculator/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0402-remove-k-digits](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0402-remove-k-digits/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0796-rotate-string](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
@@ -218,6 +219,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0205-isomorphic-strings](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0525-contiguous-array/) | Medium |
@@ -301,6 +303,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |

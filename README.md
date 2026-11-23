@@ -162,6 +162,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0069-sqrtx/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0888-fair-candy-swap](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0888-fair-candy-swap/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -224,6 +225,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0012-integer-to-roman](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0069-sqrtx/) | Easy |
 | [0224-basic-calculator](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0224-basic-calculator/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -323,4 +325,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->

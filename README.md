@@ -129,6 +129,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0013-roman-to-integer](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0067-add-binary](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0067-add-binary/) | Easy |
 | [0071-simplify-path](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0071-simplify-path/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0093-restore-ip-addresses/) | Medium |
@@ -145,6 +146,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0071-simplify-path](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0071-simplify-path/) | Medium |
 | [0224-basic-calculator](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0224-basic-calculator/) | Hard |
 | [0402-remove-k-digits](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0402-remove-k-digits/) | Medium |
@@ -263,6 +265,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0740-delete-and-earn](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0740-delete-and-earn/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -316,4 +319,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0169-majority-element/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->

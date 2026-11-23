@@ -184,6 +184,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0101-symmetric-tree/) | Easy |
+| [0279-perfect-squares](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0279-perfect-squares/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0733-flood-fill](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0733-flood-fill/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -243,6 +244,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0069-sqrtx](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0069-sqrtx/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0224-basic-calculator](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0224-basic-calculator/) | Hard |
+| [0279-perfect-squares](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0279-perfect-squares/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -292,6 +294,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0096-unique-binary-search-trees](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0279-perfect-squares](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0279-perfect-squares/) | Medium |
 | [0740-delete-and-earn](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0740-delete-and-earn/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -357,4 +360,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0279-perfect-squares/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0279-perfect-squares/) | Medium |
 <!---LeetCode Topics End-->

@@ -81,6 +81,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0179-largest-number/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -98,6 +99,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0179-largest-number/) | Medium |
 | [0402-remove-k-digits](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0402-remove-k-digits/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 ## Sorting
@@ -106,6 +108,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0016-3sum-closest](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0179-largest-number/) | Medium |
 | [0645-set-mismatch](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0645-set-mismatch/) | Easy |
 | [0888-fair-candy-swap](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0888-fair-candy-swap/) | Easy |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
@@ -127,6 +130,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0067-add-binary](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0067-add-binary/) | Easy |
 | [0071-simplify-path](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0071-simplify-path/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0093-restore-ip-addresses/) | Medium |
+| [0179-largest-number](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0224-basic-calculator](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0224-basic-calculator/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |

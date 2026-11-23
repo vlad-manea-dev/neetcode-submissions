@@ -95,6 +95,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0733-flood-fill](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0733-flood-fill/) | Easy |
 | [0740-delete-and-earn](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0740-delete-and-earn/) | Medium |
 | [0888-fair-candy-swap](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0888-fair-candy-swap/) | Easy |
+| [1091-shortest-path-in-binary-matrix](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1470-shuffle-the-array](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1528-shuffle-string](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1528-shuffle-string/) | Easy |
@@ -185,6 +186,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0101-symmetric-tree](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0101-symmetric-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0733-flood-fill](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0733-flood-fill/) | Easy |
+| [1091-shortest-path-in-binary-matrix](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -195,6 +197,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0733-flood-fill](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0733-flood-fill/) | Easy |
+| [1091-shortest-path-in-binary-matrix](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |

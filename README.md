@@ -241,6 +241,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0013-roman-to-integer](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0069-sqrtx/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0224-basic-calculator](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0224-basic-calculator/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -272,21 +273,25 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0101-symmetric-tree](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0101-symmetric-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0101-symmetric-tree](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0101-symmetric-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0096-unique-binary-search-trees](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0740-delete-and-earn](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0740-delete-and-earn/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |

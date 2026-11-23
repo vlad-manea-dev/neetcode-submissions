@@ -209,6 +209,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0013-roman-to-integer/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -251,6 +252,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
@@ -260,6 +262,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0844-backspace-string-compare](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |

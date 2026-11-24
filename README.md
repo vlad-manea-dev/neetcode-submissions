@@ -182,6 +182,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0437-path-sum-iii](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0437-path-sum-iii/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0733-flood-fill](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0733-flood-fill/) | Easy |
+| [0968-binary-tree-cameras](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -286,6 +287,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0437-path-sum-iii](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0437-path-sum-iii/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0968-binary-tree-cameras](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -299,6 +301,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0437-path-sum-iii](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0437-path-sum-iii/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0968-binary-tree-cameras](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -306,6 +309,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0096-unique-binary-search-trees](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0279-perfect-squares](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0279-perfect-squares/) | Medium |
 | [0740-delete-and-earn](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0740-delete-and-earn/) | Medium |
+| [0968-binary-tree-cameras](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -379,4 +383,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0279-perfect-squares/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0968-binary-tree-cameras](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0968-binary-tree-cameras/) | Hard |
 <!---LeetCode Topics End-->

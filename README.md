@@ -108,6 +108,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0179-largest-number/) | Medium |
+| [0316-remove-duplicate-letters](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0402-remove-k-digits/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 ## Sorting
@@ -142,6 +143,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0179-largest-number](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0224-basic-calculator](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0224-basic-calculator/) | Hard |
+| [0316-remove-duplicate-letters](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0402-remove-k-digits](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0402-remove-k-digits/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -156,6 +158,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0032-longest-valid-parentheses](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0071-simplify-path](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0071-simplify-path/) | Medium |
 | [0224-basic-calculator](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0224-basic-calculator/) | Hard |
+| [0316-remove-duplicate-letters](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0844-backspace-string-compare](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0844-backspace-string-compare/) | Easy |
@@ -164,6 +167,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0901-online-stock-span](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0901-online-stock-span/) | Medium |

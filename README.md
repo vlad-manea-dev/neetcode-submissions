@@ -187,6 +187,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0101-symmetric-tree/) | Easy |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0279-perfect-squares](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0279-perfect-squares/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0733-flood-fill](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0733-flood-fill/) | Easy |
@@ -282,6 +283,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0101-symmetric-tree](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0101-symmetric-tree/) | Easy |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0437-path-sum-iii](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0437-path-sum-iii/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Search Tree
@@ -294,6 +296,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0101-symmetric-tree](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0101-symmetric-tree/) | Easy |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0437-path-sum-iii](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0437-path-sum-iii/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vlad-manea-dev/neetcode-submissions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Dynamic Programming
